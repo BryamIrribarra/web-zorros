@@ -1,5 +1,5 @@
 # Web Zorros 🦊
-Este proyecto presenta un sitio web informativo sobre los zorros, desarrollado como parte de la **Evaluación Sumativa 2** del curso de Programación Front End.
+Este proyecto presenta un sitio web informativo sobre los zorros, desarrollado como parte de la **Evaluación Sumativa 1** del curso de Programación Front End.
 
 ## Descripción
 El sitio web incluye:
@@ -21,11 +21,11 @@ El sitio web incluye:
 - `img/`: Carpeta que contiene todas las imágenes utilizadas en el sitio.
 
 ## Cómo visualizar el proyecto
-1. Clonar este repositorio:
+1. Clonar el repositorio:
    ```
    git clone https://github.com/BryamIrribarra/web-zorros.git
    ```
-2. Abrir `index.html` en tu navegador.
+2. Abrir `index.html` en el navegador.
 
 ## Autor
 Creado por **Bryam Irribarra**.
