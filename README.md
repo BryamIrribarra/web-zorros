@@ -10,7 +10,7 @@ El sitio web incluye:
 
 ## Tecnologías utilizadas
 - **HTML5** para la estructura.
-- **CSS3** para el diseño y los estilos.
+- **CSS** para el diseño y los estilos.
 
 ## Estructura del proyecto
 - `index.html`: Página de inicio.
